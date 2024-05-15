@@ -1,0 +1,15 @@
+div {
+    width: 400px;
+    background-color: rgb(255, 203, 233);
+    border: 50px;
+    margin: 7%;
+    padding:10px;
+    border-radius: 5%;
+}
+
+img {
+    margin: auto;
+    display: inline-block;
+
+}
+
